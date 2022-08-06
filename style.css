@@ -1,0 +1,181 @@
+
+    
+.main1{
+    display: flex;
+    align-items: center;
+    vertical-align: middle;
+    flex-direction: column;
+   
+} 
+.main2{
+    display: flex;
+    flex-direction:row;
+    row-gap: 30px;
+      
+}
+*{
+    
+        @media onlyscreen (max-width: 1440  and min-width: 376)
+{     
+
+
+    
+  
+}
+    
+   
+}
+.footer-flex-container {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin-bottom: 56px;
+    padding: 20px;
+}
+.flex1{
+    display: flex;
+    margin: auto;
+}
+
+.sec1 {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+  
+  
+}
+.sec1b{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    row-gap: 10px;
+   
+    
+}
+.sec2{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+ .btn2{
+    background-color: white;
+    color:#eb5850;
+    text-decoration: none;
+    padding: 11px 28px;
+    border: 1px solid #E7332B;
+}
+
+.btn2:hover{
+    text-decoration: none;
+    color:white;
+    background-color: #eb5850;
+
+}
+.btn1{
+    background-color: #eb5850;
+    color:white;
+    text-decoration: none;
+    padding: 11px 28px;
+    border: 1px solid #E7332B;
+}
+
+.btn1:hover{
+    text-decoration: none;
+    color:#eb5850 ;
+    background-color:white;
+}
+.iwant{
+    color:#eb5850 ;
+}
+.byzuri{
+    color:#eb5850 ;
+}
+
+
+a {
+    text-decoration: none;
+    color:#eb5850 ;
+}
+a:hover{
+    text-decoration: none;
+    color:#eb5850 ;
+}
+
+button{
+    display: block;
+    align-content: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.contact-icons img {
+    width: 18px !important;
+    margin-right: 5px;
+}
+
+
+footer hr {
+    opacity: 0.2;
+    border: 0.7px solid #514949;
+}
+
+.copyright p {
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: bold;
+    margin-top: 32px;
+    color: #514949;
+    padding-bottom: 97px;
+}
+.footer {
+    margin-top: 215px;
+}
+
+
+
+.footer h3 {
+    font-size: 16px;
+    font-weight: bold;
+    line-height: 24px;
+    color: #514949;
+}
