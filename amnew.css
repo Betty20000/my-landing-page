@@ -1,0 +1,188 @@
+
+.lady1 {
+    display: flex;
+    justify-content: center;
+    width: 70%;
+    height: 50vh;
+    margin-top: 2%;
+    margin-left: 2%;
+
+   
+
+}
+.grid1{
+    display: grid;
+    grid-template-areas:
+    "a    b"
+    "c    d" 
+    "e    f"
+    "g    h"
+    "i    i"
+    ;
+    width: 50%;
+    margin: auto; 
+    gap: 1%;
+    justify-items: auto;
+    
+}
+.a{
+    background-color: red;
+    color: white;
+}
+.b{
+    background-color:white;
+    
+}
+.c{
+    background-color:white;
+    
+}
+.d{
+    background-color:white;
+    
+}
+.e{
+    background-color:white;
+    
+}
+.f{
+    background-color:white;
+    
+}
+
+.maingrid{
+    background-color:peachpuff;
+    justify-content: center;
+}
+
+.curves{
+    right: auto;
+}
+.highquality{
+    background-color: red;
+    color: white;
+}
+button{
+    text-decoration: none;
+    border-radius: 10%;
+}
+.btnwhite{
+    text-decoration: none;
+    background-color: white;
+    color: red;
+    width: 10%;   
+}
+.btnreds{
+    color:white;
+    background-color: red;
+
+}
+
+.smilecontainer{
+    background-color: red;
+}
+.grid2{
+    display: grid;
+    grid-template-areas:
+    "a  b"
+    ;
+    width: 50%;
+    width: 50%;
+    margin: auto; 
+    gap: 2%;
+    justify-items: auto;
+}
+.gridcontainer{
+    background-color:beige;
+}
+.area1{ 
+    background-color: white;
+}
+.area4{ 
+    background-color: white;
+}
+.area5{ 
+    background-color: white;
+
+}
+.area2{ 
+    background-color: white;
+}
+.area3{ 
+    background-color: white;
+}
+.area6{
+    background-color: white;
+}
+  .area45{
+    color: white;
+    background-color: black;
+  }  
+  .area46{
+    color:white;
+    background-color: black;
+  }
+  .area47{
+    background-color: red;
+    color: white;
+  }
+  .gridcontainer3{
+    display: grid;
+    grid-template-areas:
+    "a     b"
+    "c     d "
+
+    ;
+    width: 50%;
+    width: 50%;
+    margin: auto; 
+    gap: 2%;
+    justify-items: auto;
+
+  }
+.main1{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    justify-items: auto;
+    margin: auto;
+    gap: 20%;
+}
+
+.ingress{
+    height:50%;
+    width:100%;
+}
+.malef{
+    display: flex;
+    flex-direction: row;
+    gap:50% ;
+}
+.redline{
+    color: red;
+}
+.darkline{
+    color: black;
+}
+.structure{ 
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 100%;
+    text-decoration: none;
+    align-items: center;
+}
+
+.whyzuri{
+    display: flex;
+    flex-direction:row;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    gap: 10%;
+
+
+
+
+
+}
